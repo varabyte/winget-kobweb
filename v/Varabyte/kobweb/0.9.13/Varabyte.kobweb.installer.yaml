@@ -1,0 +1,17 @@
+# Generated with JReleaser 1.10.0 at 2024-02-12T15:16:25.517822-08:00
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.4.0.schema.json
+
+PackageIdentifier: Varabyte.kobweb
+PackageVersion: 0.9.13
+ReleaseDate: 2024-02-12
+Installers:
+  - Architecture: neutral
+    InstallerUrl: https://github.com/varabyte/kobweb-cli/releases/download/cli-v0.9.13/kobweb-0.9.13.zip
+    InstallerSha256: ea5a773e11f396fafc36a6fc592ba5b3fed04052345cac2e635b5a9e6cdb5ec8
+    InstallerType: zip
+    NestedInstallerType: portable
+    NestedInstallerFiles:
+      - RelativeFilePath: kobweb-0.9.13\bin\kobweb.bat
+        PortableCommandAlias: kobweb
+ManifestType: installer
+ManifestVersion: 1.4.0

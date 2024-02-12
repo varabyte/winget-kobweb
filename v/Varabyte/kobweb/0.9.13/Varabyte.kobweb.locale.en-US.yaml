@@ -1,0 +1,23 @@
+# Generated with JReleaser 1.10.0 at 2024-02-12T15:16:25.517822-08:00
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.4.0.schema.json
+
+PackageIdentifier: Varabyte.kobweb
+PackageVersion: 0.9.13
+PackageLocale: en-US
+Publisher: Varabyte
+PublisherUrl: https://kobweb.varabyte.com/
+PublisherSupportUrl: https://github.com/varabyte/kobweb/issues
+Author: David Herman
+PackageName: kobweb
+PackageUrl: https://kobweb.varabyte.com/
+License: Apache-2.0
+LicenseUrl: http://www.apache.org/licenses/LICENSE-2.0
+Copyright: Copyright © 2024 Varabyte. All rights reserved.
+ShortDescription: Set up and manage your Kobweb (Compose HTML) app
+Description: |
+  Kobweb CLI provides commands to handle the tedious parts of building a Kobweb (Compose HTML) app,
+  including project setup and configuration.
+Moniker: kobweb
+ReleaseNotesUrl: https://github.com/varabyte/kobweb-cli/releases/tag/cli-v0.9.13
+ManifestType: defaultLocale
+ManifestVersion: 1.4.0

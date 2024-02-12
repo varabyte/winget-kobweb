@@ -1,0 +1,8 @@
+# Generated with JReleaser 1.10.0 at 2024-02-12T15:16:25.517822-08:00
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.4.0.schema.json
+
+PackageIdentifier: Varabyte.kobweb
+PackageVersion: 0.9.13
+DefaultLocale: en-US
+ManifestType: version
+ManifestVersion: 1.4.0
